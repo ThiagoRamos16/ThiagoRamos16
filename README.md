@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Thiago Ramos 😁
+## Bem-vindo(a) ao perfil do Thiago Ramos 😁 😎
 
  <div>
    <a href="https://github.com/ThiagoRamos16">
@@ -14,10 +14,9 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Rede sociais
  
 <div> 
  <a href="https://instagram.com/thiago_ramos_16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:thiagoramosdasilva16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-ramos-da-silva-52617922a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiago-ramos-da-silva-52617922a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
