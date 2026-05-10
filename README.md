@@ -1,25 +1,46 @@
-Bem-vindo(a) ao perfil do Thiago Ramos 😁 😎
-<div>
-  <a href="https://github.com/ThiagoRamos16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoRamos16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRamos16&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-🚀 Sobre mim
-Desenvolvedor Python em formação, com foco em Automação e Inteligência Artificial.
-Apaixonado por construir soluções que unem voz, código e IA.
-🛠️ Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-🤖 Projetos em destaque
+# Bem-vindo ao perfil do Thiago Ramos! 🎙️🤖
 
-🎙️ Nasama — Assistente virtual com reconhecimento e síntese de voz em Python
+🚀 Desenvolvedor Python | Automação & Inteligência Artificial  
+🐾 Criador da Nasama — assistente virtual homenagem aos meus pets  
+📍 Brasil | Aberto a oportunidades
 
-Rede sociais
-<div>
-  <a href="https://www.linkedin.com/in/thiagoramosdasilva/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+---
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🔮 Atualmente estudando
+
+- 🤖 N8N — Automação com Agentes de IA
+- 💬 Integração com WhatsApp via Evolution API
+- 🧠 Agentes IA conversacionais
+
+---
+
+## 📌 Projetos em destaque
+
+### 🎙️ Nasama — Assistente Virtual
+Assistente com reconhecimento e síntese de voz em Python.  
+Comandos por voz para hora atual, envio de e-mails e mais.  
+`gTTS` `SpeechRecognition` `Google Speech API` `smtplib`
+
+---
+
+## 📊 GitHub Stats
+
+![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoRamos16&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRamos16&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoramosdasilva)
