@@ -9,8 +9,9 @@
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
@@ -33,7 +34,7 @@ Comandos por voz para hora atual, envio de e-mails e mais.
 
 ## 📊 GitHub Stats
 
-![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoRamos16&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoRamos16&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRamos16&layout=compact&theme=dark&hide_border=true)
 
