@@ -36,7 +36,7 @@ Comandos por voz para hora atual, envio de e-mails e mais.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoRamos16&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRamos16&layout=compact&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRamos16&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
